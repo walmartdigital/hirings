@@ -5,7 +5,7 @@ We have the follow Open positions:
 
 ## Open positions
 
-* [Site Reliability Engineer](sre/site-reliability-engineer.md) -  Santiago, Chile |
+* [Site Reliability Engineer](sre/site-reliability-engineer.md) -  Santiago, Chile 
 
 ---
 Walmart Chile with <3
