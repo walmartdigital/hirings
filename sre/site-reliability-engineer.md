@@ -42,3 +42,5 @@ Our primary focus is the design of scalable solutions, automation and the Kubern
 ## How to joins us
 
 Please, feel free to open an issue and add your github account profile.
+
+At Walmart, we believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing diversity—unique styles, experiences, identities, ideas and opinions—while being inclusive of all people.

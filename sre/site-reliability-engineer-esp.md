@@ -43,3 +43,5 @@ Nuestro foco principal es el diseño de soluciones escalables, automatización y
 ## Cómo postular
 
 Por favor, crea un issue y agrega tu perfil Github.
+
+En Walmart, creemos que estamos mejor preparados para ayudar a nuestros asociados, clientes y las comunidades a las que servimos a vivir mejor, cuando realmente los conocemos. Eso significa comprender, respetar y valorar la diversidad (estilos únicos, experiencias, identidades, ideas y opiniones) mientras seamos inclusivos con todas las personas.
